@@ -17,10 +17,6 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json ****** Additiona
 
 https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 
-<p style='color:red'>Change the following code in your Arduino C++ program to the below.</p>
-
-<p style='color:red'>This is some red text.</p>
-<font color="red">This is some text!</font>
-These are <b style='color:red'>red words</b>.
+<b style='color:red'>Change the following code in your Arduino C++ program to the below.</b>.
 
 #define DHTPIN 5  // GPIO 15 (D1) ***** what digital pin we're connected to
