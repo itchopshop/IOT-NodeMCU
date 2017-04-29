@@ -23,3 +23,21 @@ https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
+
+
+Azure subscription, VM set up in Azure, configuring end points and Node Red installation
+
+https://azure.microsoft.com/en-us/free/ **** link to Azure subscription
+
+http://nodered.org/docs/getting-started/installation.html **** Node-Red setup
+
+https://www.java.com/en/download/windows-64bit.jsp ***** Java Install
+
+https://nodejs.org/en/ ***** Node.js install
+
+http://www.hivemq.com/try-out/ *** Tryout
+
+Connect to Public Broker
+Host: broker.hivemq.com
+Port: 1883
+Websocket Port: 8000
