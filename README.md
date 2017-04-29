@@ -20,7 +20,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json ****** Additiona
 
 https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 
-<b style='color:red'>Change the following code in your Arduino C++ program to the below.</b>.
+<b style='color:red'>Change the following code in your Arduino C++ program to the below.</b>
 
 #define DHTPIN 5  // GPIO 15 (D1) ***** what digital pin we're connected to
 
@@ -47,3 +47,22 @@ Host: broker.hivemq.com
 Port: 1883
 
 Websocket Port: 8000
+
+
+# IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 4
+
+<b style='color:red'>Add pubsubclient library to you Arduino IDE</b>.
+
+http://127.0.0.1:1880/ **** Node Red designer Url
+
+<b style='color:red'>change topics in Node red to:</b>wifiTemp and wifiHumidity
+
+https://flows.nodered.org/ ****** Flows and useful nodes
+
+https://flows.nodered.org/node/node-red-dashboard  **** Dashboard install for Node-Red
+
+npm i node-red-dashboard
+
+http://127.0.0.1:1880/ui/ ***** Node Red Dashboard URL
+
+
