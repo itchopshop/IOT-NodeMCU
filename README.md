@@ -5,3 +5,6 @@ NodeMCU with DHT22 sensor, using Azure, Node Red and HiveMq
 
 NodeMCU PinOuts using D1 which = GPIO5
 ![Screenshot](NodeMCUPinOut.PNG)
+
+![Screenshot](NodeMCUDHT22Fritz.PNG)
+
