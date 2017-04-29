@@ -52,6 +52,8 @@ Websocket Port: 8000
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 4
 
+Code for this section: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeMCUAzurePart3/NodeMCUAzurePart3.ino
+
 <b style='color:red'>Add pubsubclient library to you Arduino IDE</b>.
 
 http://127.0.0.1:1880/ **** Node Red designer Url
