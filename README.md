@@ -22,4 +22,4 @@ https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 #define DHTPIN 5  // GPIO 15 (D1) ***** what digital pin we're connected to
 
 
-#IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
+# IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
