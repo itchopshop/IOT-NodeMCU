@@ -41,6 +41,9 @@ https://nodejs.org/en/ ***** Node.js install
 http://www.hivemq.com/try-out/ *** Tryout
 
 Connect to Public Broker
+
 Host: broker.hivemq.com
+
 Port: 1883
+
 Websocket Port: 8000
