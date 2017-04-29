@@ -27,6 +27,7 @@ https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
 
+Code for this section: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeMCUAzurePart3/NodeMCUAzurePart3.ino
 
 Azure subscription, VM set up in Azure, configuring end points and Node Red installation
 
@@ -64,5 +65,3 @@ https://flows.nodered.org/node/node-red-dashboard  **** Dashboard install for No
 npm i node-red-dashboard
 
 http://127.0.0.1:1880/ui/ ***** Node Red Dashboard URL
-
-
