@@ -20,3 +20,6 @@ https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 <b style='color:red'>Change the following code in your Arduino C++ program to the below.</b>.
 
 #define DHTPIN 5  // GPIO 15 (D1) ***** what digital pin we're connected to
+
+
+#IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
