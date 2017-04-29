@@ -70,7 +70,7 @@ Code for this section: https://github.com/itchopshop/IOT-NodeMCU/blob/master/Nod
 
 Node Red flow for this tutorial: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeRedFlowPart5.txt
 
-Just some handy links for setting up Noed red
+Just some handy links for setting up Node red
 
 https://flows.nodered.org/ ******** Flows and Nodes
 
