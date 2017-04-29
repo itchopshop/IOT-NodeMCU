@@ -11,6 +11,8 @@ NodeMCU PinOuts using D1 which = GPIO5
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 2
 
+use the code above<b style='color:red'> DHTtesterTutorialPart2</b> for the program.
+
 https://www.arduino.cc/en/Main/Software ******** Arduino IDE
 
 http://arduino.esp8266.com/stable/package_esp8266com_index.json ****** Additional Boards Manager URLs
