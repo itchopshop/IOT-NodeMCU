@@ -65,3 +65,11 @@ npm i node-red-dashboard
 http://127.0.0.1:1880/ui/ ***** Node Red Dashboard URL
 
 Code for this section: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeMCUAzurePart3/NodeMCUAzurePart3.ino
+
+# IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 5
+
+Just some handy links for setting up Noed red
+
+https://flows.nodered.org/ ******** Flows and Nodes
+
+https://nodered.org/docs/security ****** Security
