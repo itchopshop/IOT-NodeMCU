@@ -3,6 +3,8 @@ NodeMCU with DHT22 sensor, using Azure, Node Red and HiveMq
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 1
 
+https://www.youtube.com/watch?v=7ITxtLSsQrc&t=212s
+
 NodeMCU PinOuts using D1 which = GPIO5
 ![Screenshot](NodeMCUPinOut.PNG)
 
@@ -10,6 +12,8 @@ NodeMCU PinOuts using D1 which = GPIO5
 
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 2
+
+https://www.youtube.com/watch?v=4RTaxUfm3dM
 
 <b style='color:red'>CODE for Arduino IDE:</b>
 https://github.com/itchopshop/IOT-NodeMCU/blob/master/DHTtesterTutorialPart2/DHTtesterTutorialPart2.ino
@@ -26,6 +30,8 @@ https://github.com/adafruit/Adafruit_Sensor **** Main Sensor Library
 
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 3
+
+https://www.youtube.com/watch?v=D4AVv1ntq8w&t=15s
 
 Azure subscription, VM set up in Azure, configuring end points and Node Red installation
 
@@ -50,6 +56,8 @@ Websocket Port: 8000
 
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 4
 
+https://www.youtube.com/watch?v=ektTXmgxELs
+
 <b style='color:red'>Add pubsubclient library to you Arduino IDE</b>.
 
 http://127.0.0.1:1880/ **** Node Red designer Url
@@ -66,7 +74,10 @@ http://127.0.0.1:1880/ui/ ***** Node Red Dashboard URL
 
 Code for this section: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeMCUAzurePart3/NodeMCUAzurePart3.ino
 
+
 # IOT with Azure, Mqtt, Arduino, NodeMCU and Node Red tutorial part 5
+
+https://www.youtube.com/watch?v=mEpSGGSCIiA&t=2s
 
 Node Red flow for this tutorial: https://github.com/itchopshop/IOT-NodeMCU/blob/master/NodeRedFlowPart5.txt
 
